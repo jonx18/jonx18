@@ -14,6 +14,7 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 
 
 ### Languages and Tools:
+<p>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
@@ -23,20 +24,18 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 <a href="https://keras.io/" target="_blank"> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" align="left" alt="git" height='32px'/> </a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Kotlin" height ="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
-
-
+</p>
+<br/>
 
 ### 📊 Github Stats
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true" />
 </a>
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
