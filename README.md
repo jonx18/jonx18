@@ -3,7 +3,7 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 
 ### :mag: More About Me:
 
-- 🔭 I’m currently working on my P.hD. thesis and making some smalls projects with FastAI.
+- 🔭 I’m currently working on my P.hD. thesis and making some [smalls projects with FastAI](https://github.com/jonx18/petidentifier).
 - 🌱 I’m currently learning machine learning forecasting algorithms.
 - 👯 I’m looking to collaborate on machine learning applications for BCI.
 - 🤔 I’m looking for help with the simulation of trading platforms for Deep Reinforcement Learning applications.
