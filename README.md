@@ -13,7 +13,7 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 - ⚡ Fun fact: I have a dog called Nexus.
 
 
-### Languages and Tools:
+### :books: Languages and Tools:
 <p>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32px"/> </a> 
@@ -27,15 +27,15 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 </p>
 <br/>
 
-### 📊 Github Stats
+
+
+### :bar_chart: Github Stats
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true" />
-</a>
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonx18&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=000000&include_all_commits=true&count_private=true)](#)
 
 
