@@ -25,5 +25,7 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" height='32px'/> </a>
 
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 ### 📊 Github Stats
-[//]: # (add git hub stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18)](https://github.com/anuraghazra/github-readme-stats)
