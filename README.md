@@ -26,9 +26,8 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 
 
 
+### 📊 Github Stats
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-
-
-### 📊 Github Stats
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=00000000&include_all_commits=true&count_private=true)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&icon_color=2d77dc&text_color=2d77dc&title_color=2d77dc&bg_color=transparent&include_all_commits=true&count_private=true)
