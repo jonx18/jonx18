@@ -31,4 +31,4 @@ Machine Learning Engineer willing to relocate, with 4+ years of experience in de
 
 
 ### 📊 Github Stats
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonx18)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=00000000&include_all_commits=true&count_private=true)
