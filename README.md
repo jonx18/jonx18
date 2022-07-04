@@ -1,9 +1,9 @@
 ## Hi, I'm Jonathan Martin 👋
-Machine Learning Engineer willing to relocate, with 5+ years of experience in developing Machine learning solutions (mainly using Python, R, with TensorFlow and PyTorch), 5+ in Smalltalk-based products. Currently been a PhD. Candidate waiting to defend the thesis and teacher assistant at Faculty of Informatics, National University of La Plata, Argentina, where I research as a member of the Research and Development in Advanced IT Lab (LIFIA). Professional with development, research, and teaching skills, focused on Machine Learning, Web Engineering, and Object-Oriented Programming. My research interests are data-driven Support Decision-making and Deep Learning. Aiming to contribute to build world-class Machine learning solutions and to continue learning and improving my skills, especially those related to Deep Learning and Deep Reinforcement Learning. 
+Machine Learning Engineer willing to relocate, with 5+ years of experience in developing Machine learning solutions (mainly using Python, R, with TensorFlow and PyTorch). Professional with development, research, and teaching skills, focused on Machine Learning, Web Engineering, and Object-Oriented Programming. My Ph.D. and research interests are data-driven, Support Decision-making and Deep Learning. Aiming to contribute to building world-class Machine learning solutions and to continue learning and improving my skills, especially those related to Deep Learning and Deep Reinforcement Learning. 
 
 ### :mag: More About Me:
 
-- 🔭 I’m currently working on my P.hD. thesis and making some [smalls demo projects](https://github.com/jonx18/portfolio-multipage).
+- 🔭 I’m currently working on Tienda Nube as Senior Machine Learning Engineer and making some [smalls demo projects](https://github.com/jonx18/portfolio-multipage).
 - 🌱 I’m currently learning machine learning forecasting algorithms.
 - 👯 I’m looking to collaborate on machine learning applications for BCI.
 - 🤔 I’m looking for help with the simulation of trading platforms for Deep Reinforcement Learning applications.
